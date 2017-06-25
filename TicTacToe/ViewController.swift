@@ -21,6 +21,9 @@ class ViewController: UIViewController
     @IBOutlet weak var gridLabelSeven: GridLabel!
     @IBOutlet weak var gridLabelSix: GridLabel!
     @IBOutlet weak var gridLabelFive: GridLabel!
+    @IBAction func onTappedGridLabel(_ sender: UITapGestureRecognizer) {
+        print("Tapped Somewhere")
+    }
     override func viewDidLoad()
     {
         super.viewDidLoad()
