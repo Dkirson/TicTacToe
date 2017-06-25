@@ -33,9 +33,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="A8z-07-aLL" appends="YES" id="G0R-vf-UTg"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TbF-yo-egF" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="92" y="-1" width="75" height="75"/>
@@ -45,9 +42,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="eAD-H0-8gF" appends="YES" id="GF8-zA-X8V"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gkj-cS-iXf" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="182" y="-2" width="75" height="75"/>
@@ -57,9 +51,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="qUN-8a-VbU" appends="YES" id="c6i-B8-cOu"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text=" x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kUt-BY-AQn" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="91" width="75" height="75"/>
@@ -69,9 +60,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="pfr-cf-P5x" appends="YES" id="UMx-8N-8K4"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IBA-rN-sEB" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="92" y="91" width="75" height="75"/>
@@ -81,9 +69,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="UwJ-IJ-Suo" appends="YES" id="Tue-fU-QjU"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DL3-y5-f3g" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="182" y="90" width="75" height="75"/>
@@ -93,9 +78,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="y67-P4-fo2" appends="YES" id="QJA-ni-80X"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QjR-2C-bQA" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="92" y="180" width="75" height="75"/>
@@ -105,9 +87,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="2lr-21-lPn" appends="YES" id="aPL-co-oAu"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JgT-eS-6Tq" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="182" y="180" width="75" height="75"/>
@@ -117,9 +96,6 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="mIU-85-Lx5" appends="YES" id="Zae-dR-C5M"/>
-                                        </connections>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="x" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ggM-Fo-O9j" customClass="GridLabel" customModule="TicTacToe" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="180" width="75" height="75"/>
@@ -129,12 +105,13 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
-                                        <connections>
-                                            <outletCollection property="gestureRecognizers" destination="5RJ-zb-FCh" appends="YES" id="OG5-Bw-qVt"/>
-                                        </connections>
                                     </label>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="lcw-A0-nby" appends="YES" id="JCi-kS-yaU"/>
+                                </connections>
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -153,15 +130,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="A8z-07-aLL"/>
-                <tapGestureRecognizer id="eAD-H0-8gF"/>
-                <tapGestureRecognizer id="qUN-8a-VbU"/>
-                <tapGestureRecognizer id="pfr-cf-P5x"/>
-                <tapGestureRecognizer id="UwJ-IJ-Suo"/>
-                <tapGestureRecognizer id="y67-P4-fo2"/>
-                <tapGestureRecognizer id="5RJ-zb-FCh"/>
-                <tapGestureRecognizer id="2lr-21-lPn"/>
-                <tapGestureRecognizer id="mIU-85-Lx5"/>
+                <tapGestureRecognizer id="lcw-A0-nby"/>
             </objects>
             <point key="canvasLocation" x="117.59999999999999" y="122.78860569715144"/>
         </scene>
