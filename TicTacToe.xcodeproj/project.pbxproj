@@ -14,6 +14,7 @@
 		945931531F00583E00FA1D46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 945931511F00583E00FA1D46 /* LaunchScreen.storyboard */; };
 		9459315E1F00583E00FA1D46 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9459315D1F00583E00FA1D46 /* TicTacToeTests.swift */; };
 		945931691F00583E00FA1D46 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945931681F00583E00FA1D46 /* TicTacToeUITests.swift */; };
+		945931771F00621000FA1D46 /* GridLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945931761F00621000FA1D46 /* GridLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		945931641F00583E00FA1D46 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		945931681F00583E00FA1D46 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		9459316A1F00583F00FA1D46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		945931761F00621000FA1D46 /* GridLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				945931481F00583E00FA1D46 /* AppDelegate.swift */,
 				9459314A1F00583E00FA1D46 /* ViewController.swift */,
 				9459314C1F00583E00FA1D46 /* Main.storyboard */,
+				945931761F00621000FA1D46 /* GridLabel.swift */,
 				9459314F1F00583E00FA1D46 /* Assets.xcassets */,
 				945931511F00583E00FA1D46 /* LaunchScreen.storyboard */,
 				945931541F00583E00FA1D46 /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				945931771F00621000FA1D46 /* GridLabel.swift in Sources */,
 				9459314B1F00583E00FA1D46 /* ViewController.swift in Sources */,
 				945931491F00583E00FA1D46 /* AppDelegate.swift in Sources */,
 			);
